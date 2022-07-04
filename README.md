@@ -1,6 +1,6 @@
 # FileServer
 
-A simple file-server in golang.
+A simple file-server in golang, supports password & fake password.
 
 ## Install
 
