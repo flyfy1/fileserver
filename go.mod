@@ -1,3 +1,3 @@
 module github.com/flyfy1/fileserver
 
-go 1.14
+go 1.18
